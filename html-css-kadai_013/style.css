@@ -77,7 +77,7 @@ body {
     /* PC用ナビゲーション非表示 */
  
 
-      #body{
+      body{
         min-width:375px;
         margin:0;
       }
@@ -139,6 +139,7 @@ body {
       }
 
       #nab-sp a:hover{
+        color:#ffffff ;
         text-decoration: underline;
       }
 
